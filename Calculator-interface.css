@@ -1,0 +1,15 @@
+#interface{
+    margin-left: 20px;
+    margin-top: 20px;
+    margin-right: 20px;
+    background-color: rgb(146, 213, 146);
+    width: 350px;
+    height: 100px;
+    border-radius: 10px;
+}
+
+#number {
+    float: right;
+    margin-right: 10px;
+    margin-top: 25px;
+}

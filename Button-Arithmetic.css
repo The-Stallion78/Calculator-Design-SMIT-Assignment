@@ -1,0 +1,97 @@
+#button-C{
+    width: 168px;
+    height: 75px;
+    font-size: x-large;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-weight: bold;
+    background-color: rgb(240, 57, 57);
+    border-radius: 10px;
+    padding-top: 10px;
+    padding-left: 20px;
+    float: left;
+    margin-bottom: 10px;
+}
+
+#button-divide{
+    width: 75px;
+    height: 75px;
+    font-size: x-large;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-weight: bold;
+    background-color: rgb(65, 63, 63);
+    border-radius: 10px;
+    padding-top: 10px;
+    padding-left: 10px;
+    float: left;
+    margin-left: 14px;
+    margin-bottom: 10px;
+}
+
+#button-x{
+    width: 75px;
+    height: 75px;
+    font-size: x-large;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-weight: bold;
+    background-color: rgb(65, 63, 63);
+    border-radius: 10px;
+    padding-top: 10px;
+    padding-left: 10px;
+    float: left;
+    margin-left: 17px;
+    margin-bottom: 10px;
+}
+
+#arth-buttons{
+    width: 90px;
+    height: 415px;
+    float: right;
+}
+
+
+#button--{
+    width: 75px;
+    height: 75px;
+    font-size: x-large;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-weight: bold;
+    background-color: rgb(65, 63, 63);
+    border-radius: 10px;
+    padding-top: 10px;
+    padding-left: 10px;
+    float: left;
+    margin-left: 15px;
+    margin-bottom: 10px;
+}
+
+#button-sum{
+    width: 75px;
+    height: 160px;
+    font-size: x-large;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-weight: bold;
+    background-color: rgb(65, 63, 63);
+    border-radius: 10px;
+    padding-top: 10px;
+    padding-left: 10px;
+    margin-left: 15px;
+    float: left;
+    margin-bottom: 10px;
+}
+
+
+#button-equal{
+    width: 75px;
+    height: 75px;
+    font-size: x-large;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-weight: bold;
+    background-color: rgb(69, 169, 231);
+    border-radius: 10px;
+    padding-top: 10px;
+    padding-left: 10px;
+    float: left;
+    margin-left: 15px;
+    margin-bottom: 10px;
+}
+
